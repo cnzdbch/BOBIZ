@@ -1,12 +1,3 @@
-# BOBIZ
-BOBIZ IS BACK WITH NEW LOOK AND NEW FEATURES 
-menu 
-
-
-
-
-Instagram: http://instagram.com/noureddine_ouafy
-Facebook: https://www.facebook.com/profile.php?id=100063533185520
 
  ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ 
 
@@ -54,3 +45,4 @@ Facebook: https://www.facebook.com/profile.php?id=100063533185520
 │⭔.translate
 └───────────⭓
 
+المطور: +218911172314
